@@ -96,8 +96,9 @@
  
  ## Printing all element in array with comma.
  6. Printing all the element in the array in a single line seperated by spaces.
- ```
- int array[100] = {1, 2, 3, 4, 5, 6, 7,8, 9, 10};
+ 
+```
+    int array[100] = {1, 2, 3, 4, 5, 6, 7,8, 9, 10};
     int s = 10, i;
 
     for(i = 0; i<s; i++){
@@ -113,7 +114,7 @@
  ## Printing array in Reverse Order
  7. Printing all the element in the array in reverse order
  ```
- int array[10] = {1, 2, 3, 4, 5, 6, 7,8, 9, 10};
+    int array[10] = {1, 2, 3, 4, 5, 6, 7,8, 9, 10};
     int size = 10, i;
 
     for(i = 0; i<size; i++){
@@ -132,5 +133,5 @@
 
     printf("\n");
     return 0;
-    ```
+ ```
  
