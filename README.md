@@ -10,18 +10,18 @@
 
 
 ## Problem Set 2
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. Value insertion in array in a specified index.
+2. Value insertion in array taking value from user.
+3. Value insertion in array in a specific index.
+4. Value insertion in array in a specific index.
+5. Updating existing value in a specific index.
+6. Updating existing value in a specific index.
+7. Searching value in the array.
+8. Searching value in the array and finding its index.
+9. Deleting a value from a specied index.
+10. Deleting value from the array from the specified index.
+11. Deleting value from the array from the specified index.
+12. Deleting value from the array searching the specified value.
+13. Deleting value from the array searching the specified value.
+14. Deleting value from the array searching the specified value.
+15. Deleting value from the array searching the specified value.
