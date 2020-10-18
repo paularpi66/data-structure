@@ -112,7 +112,7 @@ int array[100];
     return 0;
  ```
     
-## Updating existing value in a specific index
+## Updating existing value in a specific index.
 5. Updating the element in 5th index taking the value from the user.
 ```
     int array [10]={1,2,3,4,5,6,7,8,9,10};
@@ -146,7 +146,7 @@ int array[100];
     return 0;
 ```
     
-## Updating existing value in a specific index
+## Updating existing value in a specific index.
 6. Updating the element in the specified index taking the index number and the updating value both from the user.
     
 ```
